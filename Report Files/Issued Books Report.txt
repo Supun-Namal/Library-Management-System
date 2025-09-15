@@ -1,0 +1,11 @@
+Book Id,Book Name,Student ID,Student Name,Issue Date,Due Date
+B001,Introduction to C#,S1001,John Doe,2024-01-10,2024-01-25
+B002,Data Structures & Algorithms,S1002,Jane Smith,2024-01-11,2024-01-26
+B003,Database Management Systems,S1003,Robert Brown,2024-01-12,2024-01-27
+B004,Operating Systems,S1004,Linda Johnson,2024-01-13,2024-01-28
+B005,Web Development Basics,S1005,Michael Lee,2024-01-14,2024-01-29
+B006,Networking Essentials,S1006,Sarah Wilson,2024-01-15,2024-01-30
+B007,Object-Oriented Programming,S1007,William Davis,2024-01-16,2024-01-31
+B008,Software Engineering,S1008,Elizabeth Miller,2024-01-17,2024-02-01
+B009,Artificial Intelligence,S1009,James Anderson,2024-01-18,2024-02-02
+B010,Cloud Computing Basics,S1010,Mary Thomas,2024-01-19,2024-02-03

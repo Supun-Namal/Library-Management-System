@@ -1,0 +1,31 @@
+D:\New Project\Library Managment System\Library Managment System\bin\Debug\Library Managment System.exe
+D:\New Project\Library Managment System\Library Managment System\bin\Debug\Library Managment System.pdb
+D:\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.Form1.resources
+D:\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.Properties.Resources.resources
+D:\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library Managment System.csproj.GenerateResource.Cache
+D:\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library Managment System.exe
+D:\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library Managment System.pdb
+D:\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.dashboard.resources
+D:\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.addstudents.resources
+D:\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.addbooks.resources
+D:\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library Managment System.csprojResolveAssemblyReference.cache
+D:\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.Register.resources
+D:\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.issuebooks.resources
+D:\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.issuedbooksreport.resources
+D:\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.returnbooksreport.resources
+C:\Users\PCView\Downloads\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library Managment System.exe
+C:\Users\PCView\Downloads\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library Managment System.pdb
+C:\Users\PCView\Downloads\New Project\Library Managment System\Library Managment System\bin\Debug\Library Managment System.exe
+C:\Users\PCView\Downloads\New Project\Library Managment System\Library Managment System\bin\Debug\Library Managment System.pdb
+C:\Users\PCView\Downloads\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library Managment System.csprojResolveAssemblyReference.cache
+C:\Users\PCView\Downloads\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.addbooks.resources
+C:\Users\PCView\Downloads\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.addstudents.resources
+C:\Users\PCView\Downloads\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.dashboard.resources
+C:\Users\PCView\Downloads\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.Form1.resources
+C:\Users\PCView\Downloads\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.issuebooks.resources
+C:\Users\PCView\Downloads\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.issuedbooksreport.resources
+C:\Users\PCView\Downloads\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.Properties.Resources.resources
+C:\Users\PCView\Downloads\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.Register.resources
+C:\Users\PCView\Downloads\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.returnbooksreport.resources
+C:\Users\PCView\Downloads\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library Managment System.csproj.GenerateResource.Cache
+C:\Users\PCView\Downloads\New Project\Library Managment System\Library Managment System\obj\x86\Debug\Library_Managment_System.start.resources
