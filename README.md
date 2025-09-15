@@ -24,4 +24,27 @@ A simple C# project designed as a first-time learning exercise. This Library Man
 # Notes
 This is a beginner project and serves as a learning tool for C# file handling and basic UI design.
 # Screeshots
+
+## Loding Screen
 ![image alt](https://github.com/Supun-Namal/Library-Management-System/blob/b75fab55e4a50a28515b0c26186a3f46d57107d8/Screenshots/Loading.jpg)
+
+## Login 
+![image alt](https://github.com/Supun-Namal/Library-Management-System/blob/5e2a7638ded72f8a48b5c0ecc82a32a1311f01ec/Screenshots/Login.PNG)
+
+## Register 
+![image alt](https://github.com/Supun-Namal/Library-Management-System/blob/5e2a7638ded72f8a48b5c0ecc82a32a1311f01ec/Screenshots/Register.PNG)
+
+## Dashboard
+![image alt](https://github.com/Supun-Namal/Library-Management-System/blob/5e2a7638ded72f8a48b5c0ecc82a32a1311f01ec/Screenshots/Dashboard.PNG)
+
+## Add Books
+![image alt](https://github.com/Supun-Namal/Library-Management-System/blob/5e2a7638ded72f8a48b5c0ecc82a32a1311f01ec/Screenshots/Add%20Books.PNG)
+
+## Add Stdents
+![image alt](https://github.com/Supun-Namal/Library-Management-System/blob/5e2a7638ded72f8a48b5c0ecc82a32a1311f01ec/Screenshots/Add%20Student.PNG)
+
+## Issued Books Report
+![image alt](https://github.com/Supun-Namal/Library-Management-System/blob/5e2a7638ded72f8a48b5c0ecc82a32a1311f01ec/Screenshots/Issued%20Books%20Report.PNG)
+
+## Return Books Report
+![image alt](https://github.com/Supun-Namal/Library-Management-System/blob/5e2a7638ded72f8a48b5c0ecc82a32a1311f01ec/Screenshots/Return%20Books%20Report.PNG)
