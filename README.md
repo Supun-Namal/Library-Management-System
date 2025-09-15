@@ -23,3 +23,5 @@ A simple C# project designed as a first-time learning exercise. This Library Man
 
 # Notes
 This is a beginner project and serves as a learning tool for C# file handling and basic UI design.
+# Screeshots
+![image alt](https://github.com/Supun-Namal/Library-Management-System/tree/137748f62c5100cd69ffc5b60936c68132f227e2/Screenshots)
