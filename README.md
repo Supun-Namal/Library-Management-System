@@ -10,16 +10,16 @@ A simple C# project designed as a first-time learning exercise. This Library Man
 
 # Usage
 
-Navigate through the dashboard to add books, students, issue books, or return books.
-Use the "Save" and "Update" buttons to manage entries.
-Clear forms or delete entries as needed.
-View reports for issued and returned books.
+* Navigate through the dashboard to add books, students, issue books, or return books.
+* Use the "Save" and "Update" buttons to manage entries.
+* Clear forms or delete entries as needed.
+* View reports for issued and returned books.
 
 # Getting Started
 
-Clone the repository.
-Open the project in a C# development environment (e.g., Visual Studio).
-Run the application to start managing library data via file operations.
+* Clone the repository.
+* Open the project in a C# development environment (e.g., Visual Studio).
+* Run the application to start managing library data via file operations.
 
 # Notes
 This is a beginner project and serves as a learning tool for C# file handling and basic UI design.
