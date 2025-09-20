@@ -25,7 +25,7 @@ A simple C# project designed as a first-time learning exercise. This Library Man
 This is a beginner project and serves as a learning tool for C# file handling and basic UI design.
 # Screeshots
 
-## Loding Screen
+## Loading Screen
 ![image alt](https://github.com/Supun-Namal/Library-Management-System/blob/b75fab55e4a50a28515b0c26186a3f46d57107d8/Screenshots/Loading.jpg)
 
 ## Login 
